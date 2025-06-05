@@ -6,7 +6,7 @@ Hi! I’m Shoaib Mansoor, a fanatical full stack developer at [Speridian](https:
 
 ## 🔧 Technologies & Tools
 - Python | JavaScript | TypeScript
-- FastAPI | Flask, Django | Fastify | Node.js | Vue | React | React Native
+- FastAPI | Flask | Django | Fastify | Node.js | Vue | React | React Native
 - PostgreSQL | Docker | GitHub Actions
 - Selenium | Appium | PlayWright | Puppeteer
 
