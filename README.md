@@ -9,7 +9,6 @@ Hi! I’m Shoaib Mansoor, a fanatical full stack developer at [Speridian](https:
 - FastAPI | Flask, Django | Fastify | Node.js | Vue | React | React Native
 - PostgreSQL | Docker | GitHub Actions
 - Selenium | Appium | PlayWright | Puppeteer
-- 🌱 I’m constantly learning **Vue 3, React, React Native, Typescript, Python, Nodejs & Postgres**
 
 ## 🌱 Currently Learning
 - Rust
