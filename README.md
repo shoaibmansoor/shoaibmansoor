@@ -2,7 +2,7 @@
 
 <br>
 
-Hi! I’m Shoaib Mansoor, a fanatical full stack developer at [Speridian](https://www.speridian.com/). Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my full projects list here -[https://github.com/shoaibmansoor](https://github.com/shoaibmansoor?tab=repositories).
+Hi! I'm Shoaib Mansoor, a full stack developer at [Speridian](https://www.speridian.com/), where I channel my passion into creating innovative solutions. I'm deeply enthusiastic about developing tools that boost productivity for users, including myself, and I genuinely enjoy every step of the development journey. You can find my full projects list here -[https://github.com/shoaibmansoor](https://github.com/shoaibmansoor?tab=repositories).
 
 ## 🔧 Technologies & Tools
 - Python | JavaScript | TypeScript
