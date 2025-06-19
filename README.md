@@ -11,6 +11,7 @@ Hi! I'm Shoaib Mansoor, a full stack developer at [Speridian](https://www.sperid
 - Selenium | Appium | PlayWright | Puppeteer
 
 ## 🌱 Currently Learning
+- Go
 - Rust
 - AI & ML
 
