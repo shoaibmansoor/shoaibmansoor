@@ -5,13 +5,13 @@
 Hi! I'm Shoaib Mansoor, a full stack developer at [Speridian](https://www.speridian.com/), where I channel my passion into creating innovative solutions. I'm deeply enthusiastic about developing tools that boost productivity for users, including myself, and I genuinely enjoy every step of the development journey. You can find my full projects list here -[https://github.com/shoaibmansoor](https://github.com/shoaibmansoor?tab=repositories).
 
 ## 🔧 Technologies & Tools
-- Python | JavaScript | TypeScript
+- Python | JavaScript | TypeScript | Go
 - FastAPI | Flask | Django | Fastify | Node.js | Vue | React | React Native
 - PostgreSQL | Docker | GitHub Actions
+- AWS | Azure | Kubernetes
 - Selenium | Appium | PlayWright | Puppeteer
 
 ## 🌱 Currently Learning
-- Go
 - Rust
 - AI & ML
 
